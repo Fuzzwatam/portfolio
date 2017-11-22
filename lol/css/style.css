@@ -622,6 +622,8 @@ main nav.open {
 .portfolio .gallery .item-img .item-img-overlay:hover {
   opacity: 1;
 }
+
+/*
 .portfolio .gallery .item-img .item-img-overlay .cap {
   position: absolute;
   left: 50%;
@@ -630,6 +632,9 @@ main nav.open {
   -webkit-transition: all .5s;
   transition: all .5s;
 }
+
+*/
+
 .portfolio .gallery .item-img .item-img-overlay h6 {
   font-weight: 900;
   margin-bottom: 20px;
