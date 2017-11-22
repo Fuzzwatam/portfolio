@@ -52,6 +52,10 @@ img {
 }
 
 
+.about .hero .info h4 {
+    text-transform: uppercase;
+}
+
 .portfoliocontainer{
   padding-left: 120px;
   padding-right: 120px;
